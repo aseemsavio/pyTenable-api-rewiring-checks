@@ -1,0 +1,2 @@
+pyTenable>=1.4.8
+pytest>=3.6
